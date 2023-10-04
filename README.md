@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ngc2002" target="blank"><img src="https://img.shields.io/twitter/follow/_ngc2002?logo=twitter&style=for-the-badge" alt="_ngc2002" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,ML,AI**
+- 🌱 I’m currently learning **ML,AI**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend**
 
